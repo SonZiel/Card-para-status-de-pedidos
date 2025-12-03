@@ -46,6 +46,6 @@ Componentização para facilitar manutenção
 
 👤 Autor
 
-Jesiel PJL
+Jesiel
 💼 Desenvolvedor • Suporte ERP
 🇧🇷 Brasil
