@@ -37,7 +37,6 @@ Cada card exibe a contagem de pedidos em cada status, permitindo visão rápida 
 🛠️ Tecnologias Utilizadas:
 
 HTML / CSS / JS / SQL
-Sankhya (caso o dashboard esteja integrado dentro do sistema)
 Design responsivo
 Componentização para facilitar manutenção
 
